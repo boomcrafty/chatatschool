@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Uni+Sans&display=swap');
 
 :root {
 	--dark-color-a: #667aff;
@@ -94,7 +94,7 @@ a {
 .chat-messages .message {
 	padding: 10px;
 	margin-bottom: 15px;
-	background-color: var(--light-color);
+	background-color: #373c42;
 	border-radius: 5px;
 }
 
